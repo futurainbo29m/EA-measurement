@@ -1,0 +1,1 @@
+{"measurement": "電場変調反射", "mode": "A", "LIamp": "仮", "wait_time": "1000", "measurement_wavelength": ["600", "700", "800", "", ""], "measurement_section": ["1", "2", "", ""], "filter": ["1", "1", "", ""], "diffraction": ["1200", "1200", "", ""]}

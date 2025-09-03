@@ -1,0 +1,1 @@
+{"measurement": "ラマン", "mode": "X", "LIamp": "仮", "time_constant": "1000", "time_constant_multiplier": "6", "measurement_wavelength": ["200", "300", "", "", ""], "measurement_section": ["10", "", "", ""], "filter": ["1", "", "", ""], "diffraction": ["600", "", "", ""], "total_duration": "60", "measurement_interval": "1"}
